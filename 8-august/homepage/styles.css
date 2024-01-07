@@ -1,0 +1,37 @@
+
+#name{
+    font-family: cursive;
+    font-size: 50px;
+    text-emphasis: underline;
+    color: red;
+    opacity: 1;
+}
+
+.about{
+    font-family: arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-family: cursive;
+    color: purple;
+}
+
+h3:hover{
+    color: pink;
+}
+
+h4.about {
+    color:orange;
+}
+
+li:hover {
+    color: hotpink;
+}
+
+h6 {
+    font-family: cursive;
+    color: hotpink;
+    font-size: 50px;
+    text-emphasis: underline;
+    opacity: 1;
+}
